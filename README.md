@@ -10,3 +10,5 @@ I will be analyzing the text of *The Great Gatsby*, as provided by The Gutenberg
 - What are the main motifs and themes in the novel?
 - What is the sentiment of each section of the novel
 - How do the characters play a role in the sentiment of the novel?
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/muthu-pal/dh140/main)
